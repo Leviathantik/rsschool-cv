@@ -1,2 +1,3 @@
-https://leviathantik.github.io/rsschool-cv/cv
-https://leviathantik.github.io/rsschool-cv/
+[CV markdown](https://leviathantik.github.io/rsschool-cv/cv)
+
+[CV page](https://leviathantik.github.io/rsschool-cv/)
